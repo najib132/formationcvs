@@ -1,0 +1,439 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"do",
+				"domaine"
+			],
+			[
+				"co",
+				"country"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"backg",
+				"background-image\tproperty"
+			],
+			[
+				"for",
+				"form-group"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"h",
+				"hidden\toverflow"
+			],
+			[
+				"ove",
+				"overflow\tproperty"
+			],
+			[
+				"ex",
+				"experiences"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"req",
+				"$request〔variable〕"
+			],
+			[
+				"la",
+				"label\tTag"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"pre",
+				"presentation"
+			],
+			[
+				"text",
+				"textarea\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"Laravel ",
+				"Laravel Artisan 5: Make:Migration"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"subl .",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/NAJIB/Desktop/symfonyaaaaa/Sublime Text Build 3143 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/NAJIB/Desktop/symfonyaaaaa/Sublime Text Build 3143 x64/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/wamp64/www/formation/routes/web.php",
+		"/D/wamp64/www/formation/.env",
+		"/D/wamp64/www/formation/resources/views/cv/show.blade.php",
+		"/D/wamp64/www/formation/resources/views/layouts/app.blade.php",
+		"/D/wamp64/www/formation/resources/assets/js/app.js",
+		"/D/wamp64/www/cvtheque/resources/views/home.blade.php",
+		"/D/wamp64/www/cvtheque/resources/views/cv/create.blade.php",
+		"/D/wamp64/www/cvtheque/.env",
+		"/C/Users/NAJIB/Desktop/env",
+		"/D/wamp64/www/Arrima/database/migrations/2018_10_31_114133_create_table_experience_table.php",
+		"/D/wamp64/www/Arrima/app/Http/Controllers/ExperinceController.php",
+		"/D/wamp64/www/Arrima/resources/views/layouts/app.blade.php",
+		"/D/wamp64/www/Arrima/resources/views/Personnel/show.blade.php",
+		"/D/wamp64/www/Arrima/resources/views/welcome.blade.php",
+		"/D/wamp64/www/Arrima/resources/views/home.blade.php",
+		"/D/wamp64/www/Arrima/public/js/app.js",
+		"/D/wamp64/www/Arrima/config/cors.php",
+		"/D/wamp64/www/Arrima/routes/api.php",
+		"/D/wamp64/www/Arrima/app/Http/Middleware/VerifyCsrfToken.php",
+		"/D/wamp64/www/Arrima/app/Http/Kernel.php",
+		"/D/wamp64/www/Arrima/app/Http/Middleware/Cors.php",
+		"/D/wamp64/www/Arrima/resources/views/Personnel/index.blade.php",
+		"/D/wamp64/www/Arrima/webpack.mix.js",
+		"/D/wamp64/www/Arrima/routes/web.php",
+		"/D/wamp64/www/Arrima/app/Http/Controllers/SalarieController.php",
+		"/D/wamp64/www/Arrima/app/Salarie.php",
+		"/D/wamp64/www/Arrima/app/User.php",
+		"/D/wamp64/www/Arrima/app/Policies/SalariePolicy.php",
+		"/D/wamp64/www/Arrima/database/migrations/2018_10_20_113706_add_column_admin_users.php",
+		"/D/wamp64/www/Arrima/resources/views/partials/menu.blade.php",
+		"/D/wamp64/www/Arrima/resources/views/partials/flash.blade.php",
+		"/D/wamp64/www/Arrima/public/css/theme.css",
+		"/D/wamp64/www/Arrima/app/Providers/AuthServiceProvider.php",
+		"/D/wamp64/www/Arrima/resources/views/errors/403.blade.php",
+		"/D/wamp64/www/Arrima/database/migrations/2018_10_11_145523_create_salaries_table.php",
+		"/D/wamp64/www/Arrima/resources/views/index.blade.php",
+		"/D/wamp64/www/Arrima/resources/views/AjoutP.blade.php",
+		"/D/wamp64/www/Arrima/config/app.php",
+		"/D/wamp64/www/Arrima/.env",
+		"/D/wamp64/www/BTPlaravel/routes/web.php",
+		"/D/wamp64/www/BTPlaravel/resources/views/salaries.blade.php",
+		"/D/wamp64/www/cvtheque/database/migrations/2018_06_29_160958_create_posts_table.php",
+		"/D/wamp64/www/emploi/resources/views/layouts/Temploi.blade.php",
+		"/D/wamp64/www/emploi/resources/views/partials/recherche.blade.php",
+		"/D/wamp64/www/emploi/resources/views/condidat/annonces/create.blade.php",
+		"/D/wamp64/www/emploi/routes/web.php",
+		"/D/wamp64/www/emploi/resources/views/layouts/Temploi1.blade.php",
+		"/D/wamp64/www/emploi/resources/views/condidat/index.blade.php",
+		"/D/wamp64/www/emploi/resources/views/condidat/annonces/index.blade.php",
+		"/D/wamp64/www/emploi/app/Http/Controllers/AnnonceController.php",
+		"/C/Users/NAJIB/Desktop/symfonyaaaaa/template_atlant_frontend/portfolio-4column.html",
+		"/D/wamp64/www/emploi/resources/views/condidat/annonces/Music",
+		"/D/wamp64/www/dropdowlist/index.html",
+		"/D/wamp64/www/emploi/resources/views/Acceuil1.blade.php",
+		"/D/wamp64/www/emploi/resources/views/condidat/parametre.blade.php",
+		"/D/wamp64/www/dropdowlist/aa.html",
+		"/D/wamp64/www/emploi/vendor/composer/installed.json",
+		"/D/wamp64/www/emploi/resources/views/condidat/annonces/show.blade.php",
+		"/D/wamp64/www/emploi/resources/views/condidat/annonces/edit.blade.php",
+		"/C/Users/NAJIB/Desktop/symfonyaaaaa/template_atlant_frontend/contacts.html",
+		"/D/wamp64/www/emploi/resources/views/auth/register.blade.php",
+		"/D/wamp64/www/emploi/resources/views/auth/login.blade.php",
+		"/D/wamp64/www/emploi/resources/views/Acceuil.blade.php",
+		"/D/wamp64/www/emploi/database/migrations/2018_05_29_013729_create_annonces_table.php",
+		"/D/wamp64/www/emploi/public/emploi/css/styles.css",
+		"/D/wamp64/www/emploi/vendor/psy/psysh/src/Command/ParseCommand.php",
+		"/D/wamp64/www/emploi/app/Http/Controllers/Auth/RegisterController.php",
+		"/D/wamp64/www/emploi/resources/views/auth/passwords/reset.blade.php",
+		"/D/wamp64/www/emploi/resources/views/home.blade.php",
+		"/D/wamp64/www/emploi/resources/views/layouts/home",
+		"/D/wamp64/www/emploi/resources/views/auth/passwords/email.blade.php",
+		"/D/wamp64/www/emploi/resources/views/layouts/Temploi2.blade.php",
+		"/D/wamp64/www/cvtheque/resources/views/auth/login.blade.php",
+		"/D/wamp64/www/emploi/public/emploi/cssTab/style.css",
+		"/D/wamp64/www/emploi/resources/views/partials/search.blade.php",
+		"/D/wamp64/www/emploi/resources/views/layouts/Tacceuil.blade.php",
+		"/D/wamp64/www/emploi/resources/views/condidat/inscription.blade.php",
+		"/D/wamp64/www/emploi/public/emploi/annonces/annonces.css",
+		"/D/wamp64/www/emploi/config/app.php",
+		"/D/wamp64/www/emploi/bootstrap/cache/config.php",
+		"/D/wamp64/www/emploi/resources/lang/fr/auth.php",
+		"/D/wamp64/www/emploi/public/emploi/img/backgrounds/bg-2.jpg",
+		"/D/wamp64/www/emploi/public/emploi/img/backgrounds/bg-1.jpg",
+		"/D/wamp64/www/emploi/public/emploi/assets/slider-layers/second_2.png",
+		"/D/wamp64/www/emploi/resources/views/welcome.blade.php",
+		"/D/wamp64/www/emploi/app/Http/Controllers/HomeController.php",
+		"/D/wamp64/www/emploi/app/Http/Controllers/Auth/LoginController.php",
+		"/C/Users/NAJIB/Downloads/Compressed/template_atlant_frontend/index.html",
+		"/D/wamp64/www/cvtheque/resources/views/layouts/template.blade.php",
+		"/D/wamp64/www/emploi/app/User.php",
+		"/D/wamp64/www/emploi/resources/views/adminhome.blade.php",
+		"/D/wamp64/www/emploi/app/Http/Kernel.php",
+		"/D/wamp64/www/emploi/app/Http/Middleware/IsAdmin.php",
+		"/D/wamp64/www/emploi/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/D/wamp64/www/emploi/.env",
+		"/D/wamp64/www/emploi/database/migrations/2018_05_07_215238_create_salaries_table.php",
+		"/D/wamp64/www/emploi/app/Http/Controllers/Auth/ResetPasswordController.php",
+		"/D/wamp64/www/emploi/app/Http/Controllers/Auth/ForgotPasswordController.php",
+		"/D/wamp64/www/emploi/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/D/wamp64/www/emploi/app/Http/Controllers/CondidatController.php",
+		"/D/wamp64/www/emploi/app/Exceptions/Handler.php",
+		"/D/wamp64/www/emploi/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/D/wamp64/www/emploi/app/Http/Controllers/Condidat/LoginController.php",
+		"/D/wamp64/www/emploi/resources/views/condidat/register.blade.php",
+		"/D/wamp64/www/emploi/app/Http/Controllers/EmploiController.php",
+		"/D/wamp64/www/emploi/app/Http/Controllers/Controller.php",
+		"/D/wamp64/www/emploi/app/Http/Controllers/Condidat/ResetPasswordController.php",
+		"/D/wamp64/www/emploi/app/Http/Controllers/Condidat/RegisterController.php",
+		"/D/wamp64/www/emploi/app/Http/Controllers/Condidat/ForgotPasswordController.php",
+		"/D/wamp64/www/emploi/resources/views/condidat/passwords/reset.blade.php",
+		"/D/wamp64/www/emploi/resources/views/condidat/passwords/email.blade.php",
+		"/D/wamp64/www/emploi/resources/views/condidat/login.blade.php",
+		"/D/wamp64/www/emploi/database/migrations/2018_05_18_005001_create_condidat_table.php",
+		"/D/wamp64/www/emploi/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/D/wamp64/www/emploi/app/Condidat.php",
+		"/D/wamp64/www/emploi/resources/views/Condidat",
+		"/D/wamp64/www/emploi/config/auth.php",
+		"/D/wamp64/www/emploi/resources/views/condidat/home.blade.php",
+		"/D/wamp64/www/templateEmploi/index.html",
+		"/D/wamp64/www/emploi/database/migrations/2018_05_17_105358_create_condidats_table.php",
+		"/D/wamp64/www/emploi/database/migrations/2018_05_17_103522_create_condidats_table.php",
+		"/D/wamp64/www/template emploi/css/style.css",
+		"/D/wamp64/www/template emploi/index.html",
+		"/D/wamp64/www/template emploi/style.css",
+		"/C/Users/NAJIB/Desktop/stmfonyaaaaa/template emploi/index.html",
+		"/C/Users/NAJIB/Desktop/stmfonyaaaaa/template emploi/html/style.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "formation_laravel.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"app.blade",
+				"resources\\views\\layouts\\app.blade.php"
+			],
+			[
+				"install",
+				"vendor\\composer\\installed.json"
+			],
+			[
+				"web",
+				"routes\\web.php"
+			],
+			[
+				"user",
+				"app\\User.php"
+			],
+			[
+				"experience/",
+				"resources\\views\\experience\\create.blade.php"
+			],
+			[
+				"",
+				"resources\\views\\fonction\\create.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
